@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Discovery</title>
+    <link>https://example.com/discovery</link>
+    <language>en-us</language>
+    <itunes:author>Discovery Podcast</itunes:author>
+    <description>Exploring big ideas in science.</description>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>What Is Quantum?</title>
+      <description>An introduction to quantum physics.</description>
+      <enclosure url="Discovery-20260105-WhatIsQuantum.mp3" length="0" type="audio/mpeg"/>
+      <guid>Discovery-20260105-WhatIsQuantum</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
